@@ -8,3 +8,4 @@ else
     Click, %Number%
     Random, ran2, 32, 36
     Sleep, ran2
+    return
